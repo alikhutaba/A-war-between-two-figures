@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\final project\veresion 1.1.7\viresion 1.1.6\first\first\main.cpp(149): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\final project\veresion 1.1.7\viresion 1.1.6\first\first\main.cpp(112): warning C4101: 'pt': unreferenced local variable
+c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\final project\veresion 1.1.7\viresion 1.1.6\first\first\main.cpp(158): warning C4101: 'min': unreferenced local variable
+c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\final project\veresion 1.1.7\viresion 1.1.6\first\first\main.cpp(314): warning C4101: 'tmp': unreferenced local variable
+c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\final project\veresion 1.1.7\viresion 1.1.6\first\first\main.cpp(319): warning C4101: 'weight': unreferenced local variable
+c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\final project\veresion 1.1.7\viresion 1.1.6\first\first\main.cpp(315): warning C4101: 'pt': unreferenced local variable
+  Player.cpp
+c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\final project\veresion 1.1.7\viresion 1.1.6\first\first\player.cpp(517): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\final project\veresion 1.1.7\viresion 1.1.6\first\first\player.cpp(517): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating Code...
+  First.vcxproj -> C:\Users\khuta\Desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\Final Project\veresion 1.1.7\viresion 1.1.6\First\Debug\First.exe
+  First.vcxproj -> C:\Users\khuta\Desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\Final Project\veresion 1.1.7\viresion 1.1.6\First\Debug\First.pdb (Full PDB)
